@@ -1,3 +1,3 @@
 # DuckServer
 
-This is a simple Duckhut game based on an API and http-server
+This is a simple Duck Hunt game based on an API and http-server
